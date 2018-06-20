@@ -1,4 +1,4 @@
 # HMA 
-Hull Moving Average algo trading strategy implemented in python
+Hull Moving Average strategy implemented in python algo trading
 
 Strategy Reference: https://tradingsim.com/blog/hull-ma/
